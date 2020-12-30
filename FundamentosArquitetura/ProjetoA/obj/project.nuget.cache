@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ntpvl0rIj8ydng59MyzPlrxE7T78wK0qKNcMjWdvsKsp0uaaavDg5DQb55diz03KCkg3+2BWizlG4v471BxzVw==",
+  "success": true,
+  "projectFilePath": "D:\\05_GitHub\\Fundamentos_de_Arquitetura_de_Software\\FundamentosArquitetura\\ProjetoA\\ProjetoA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\jefin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
