@@ -19,7 +19,7 @@
 ### Sobre o Código ###
 
 <p> 
-No decorrer do curso, foram analisados vários códigos referente ao assunto, 
+No decorrer do treinamento, foram analisados vários códigos de estudo de caso, 
   em alguns momentos eu mesmo procurei implementar os meus.
 </p> 
 
