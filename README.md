@@ -24,5 +24,5 @@ No decorrer do curso, foram analisados vários códigos referente ao assunto,
 </p> 
 
 <p align="center">
-  <img src="https://github.com/Jeffconexion/SysAluno/blob/main/sysProject.gif" />
+  <img src="https://github.com/Jeffconexion/Fundamentos_de_Arquitetura_de_Software/blob/main/Webp.net-gifmaker.gif" />
 </p>
