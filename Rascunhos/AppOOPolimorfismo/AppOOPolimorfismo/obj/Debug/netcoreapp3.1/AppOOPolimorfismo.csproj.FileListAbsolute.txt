@@ -1,0 +1,13 @@
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.exe
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.deps.json
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.runtimeconfig.json
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.runtimeconfig.dev.json
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.dll
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\bin\Debug\netcoreapp3.1\AppOOPolimorfismo.pdb
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.csprojAssemblyReference.cache
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.AssemblyInfoInputs.cache
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.AssemblyInfo.cs
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.csproj.CoreCompileInputs.cache
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.dll
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.pdb
+E:\04_Treinamento_Rascunho\AppOOPolimorfismo\AppOOPolimorfismo\obj\Debug\netcoreapp3.1\AppOOPolimorfismo.genruntimeconfig.cache

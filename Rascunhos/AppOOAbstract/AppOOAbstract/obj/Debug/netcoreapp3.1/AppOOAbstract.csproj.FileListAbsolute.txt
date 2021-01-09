@@ -1,0 +1,13 @@
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.exe
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.deps.json
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.runtimeconfig.json
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.runtimeconfig.dev.json
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.dll
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\bin\Debug\netcoreapp3.1\AppOOAbstract.pdb
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.csprojAssemblyReference.cache
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.AssemblyInfoInputs.cache
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.AssemblyInfo.cs
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.csproj.CoreCompileInputs.cache
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.dll
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.pdb
+E:\04_Treinamento_Rascunho\AppOOAbstract\AppOOAbstract\obj\Debug\netcoreapp3.1\AppOOAbstract.genruntimeconfig.cache

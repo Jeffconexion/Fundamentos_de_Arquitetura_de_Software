@@ -1,0 +1,7 @@
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\bin\Debug\AppOOImpleInterf.exe.config
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\bin\Debug\AppOOImpleInterf.exe
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\bin\Debug\AppOOImpleInterf.pdb
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\obj\Debug\AppOOImpleInterf.csprojAssemblyReference.cache
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\obj\Debug\AppOOImpleInterf.csproj.CoreCompileInputs.cache
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\obj\Debug\AppOOImpleInterf.exe
+C:\Users\jrsantos\source\repos\AppOOImpleInterf\AppOOImpleInterf\obj\Debug\AppOOImpleInterf.pdb
