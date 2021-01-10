@@ -1,0 +1,7 @@
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\bin\Debug\AppCaso1.exe.config
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\bin\Debug\AppCaso1.exe
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\bin\Debug\AppCaso1.pdb
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\obj\Debug\AppCaso1.csprojAssemblyReference.cache
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\obj\Debug\AppCaso1.csproj.CoreCompileInputs.cache
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\obj\Debug\AppCaso1.exe
+E:\04_Treinamento_Rascunho\AppCaso1\AppCaso1\obj\Debug\AppCaso1.pdb
